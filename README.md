@@ -13,3 +13,20 @@ To bridge this gap, this study focuses on a unified machine learning approach th
 
 **Kaggle Dataset:** https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering
 
+Please refer to customer segmentation file for EDA, preprocessing and Clustering part. For predictive models, please refer to predictive (final) file.
+
+**References**
+
+Ramkumar, G., Bhuvaneswari, J., Venugopal, S., Kumar, S., Ramasamy, C. K., & Karthick, R. (2025). Enhancing customer segmentation: RFM analysis and K-Means clustering implementation. In Innovations in Management and Technology (pp. 109–122). https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781003559139-9
+
+Suh, Y. (2025). Discovering customer segments through interaction behaviors for home appliance business. Journal of Big Data, 12(1), 54. https://doi.org/10.1186/s40537-025-01111-y
+
+Kabir, M. F., Chowdhury, M. D., Shahiduzzaman, M., & Rana, M. I. C. (2025). Comprehensive customer segmentation and behavior prediction using advanced machine learning and neural network models. International Journal of Creative Research Thoughts, 13(1), 478–490.
+
+Lathifah, S. N., & Azzahra, Z. F. (2025). AI-driven customers segmentation using K-Means clustering. G-Tech: Jurnal Teknologi Terapan, 6(1). https://ejournal.uniramalang.ac.id/index.php/g-tech/article/view/6202
+
+Deldadehasl, M., Karahroodi, H. H., & Haddadian Nekah, P. (2025). Customer clustering and marketing optimization in hospitality: A hybrid data mining and decision-making approach from an emerging economy. Tourism and Hospitality, 6(2), 80. https://doi.org/10.3390/tourhosp6020080
+
+Patel, R., & Mehta, A. (2024). Hybrid CNN-ANN models for E-commerce analytics. Deep Learning Applications in Business, 15(2), 65–80.
+
+Bhatia, K., & Gupta, B. P. (2025). Predictive analytics for customer behavior and sales forecasting in retail. International Journal of World of Sciences. https://www.ijwos.com/index.php/home/article/view/10
